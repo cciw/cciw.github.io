@@ -21,7 +21,9 @@ Camera-ready version of accepted papers must be compliant with the ACM Master Te
 * <small>Submissions are NOT double-blind</small>
 * <small>Only web-based submissions are allowed</small>
 
+<small>
 All necessary documentation can be found at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). 
+</small>
 
 #### Important dates
 
