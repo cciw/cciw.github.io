@@ -10,7 +10,7 @@ feature_text: |
 feature_image: "../images/3.jpg"
 ---
 
-To contact the chairs, you can email: ** cciw19@easychair.org **
+To contact the chairs, you can email: **cciw19@easychair.org**
 
 ##### Workshop Organizers
 
