@@ -12,7 +12,7 @@ feature_image: "../images/3.jpg"
 <small>
 Please submit your paper via the submission system:</small>
 
-[https://easychair.org/conferences/?conf=cciw19]()
+[https://easychair.org/conferences/?conf=cciw19](https://easychair.org/conferences/?conf=cciw19)
 
 <small>The submitted articles can either be short (4 pages) position papers, or long (8 pages) research papers.
 Camera-ready version of accepted papers must be compliant with the ACM Master Template with sigconf  format (please be sure to use the current version).</small>
