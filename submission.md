@@ -28,6 +28,6 @@ All necessary documentation can be found at: [https://www.acm.org/publications/p
 #### Important dates
 
 * <small>Paper submission: April 17, 2019</small>
-* <small>Paper Acceptance Notification: April 25, 2019</small>
+* <small>Paper Acceptance Notification: April 29, 2019</small>
 * <small>Camera-ready deadline: May 6, 2019</small>
 * <small>Workshop: June 24, 2019</small>
