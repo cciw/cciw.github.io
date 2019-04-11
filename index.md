@@ -46,6 +46,6 @@ conference (together with the HPDC conference proceedings).
 #### Important dates
 
 * <small>Paper submission: ~~April 10, 2019~~ April 17, 2019 </small>
-* <small>Paper Acceptance Notification: April 25, 2019</small>
+* <small>Paper Acceptance Notification: ~~April 25, 2019~~ April 29, 2019</small>
 * <small>Camera-ready deadline: May 6, 2019</small>
 * <small>Workshop: June 24, 2019</small>
