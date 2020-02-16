@@ -1,8 +1,8 @@
-### 1st Workshop on Converged Computing Infrastructure
+### 2nd Workshop on Converged Computing Infrastructure
 
-Current version: 2019
+Current version: 2020
 
-Link: [CCIW'19](https://cciw.github.io)
+Link: [CCIW'20](https://cciw.github.io)
 <br/><br/>
 Jekyll theme webside based on [Alembic](https://github.com/daviddarnes/alembic) 
 
