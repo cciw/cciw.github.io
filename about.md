@@ -3,6 +3,7 @@ layout: page
 feature_text: | 
   ### 2st Workshop on Converged Computing Infrastructure
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 23, 2020 Stockholm, Sweden
+
   :
 
   :
@@ -15,7 +16,7 @@ To contact the chairs, you can email: **cciw20@easychair.org**
 
 * <small>Alexandru Uta - Vrije Universiteit Amsterdam</small>
 * <small>Carlos Costa - IBM Research</small>
-* <small>Jan Rellermeyer, TU Delft, The Netherlands</small>
+* <small>Jan Rellermeyer - Delft University of Technology</small>
 * <small>Ana Gainaru - Vanderbilt University</small>
 
 ##### Program committee
