@@ -1,8 +1,8 @@
 ---
 layout: page
 feature_text: | 
-  ### 1st Workshop on Converged Computing Infrastructure
-  June 24, 2019, Phoenix, AZ
+  ### 2st Workshop on Converged Computing Infrastructure
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 23, 2020 Stockholm, Sweden
 
   :
 
@@ -12,7 +12,7 @@ feature_image: "../images/3.jpg"
 <small>
 Please submit your paper via the submission system:</small>
 
-[https://easychair.org/conferences/?conf=cciw19](https://easychair.org/conferences/?conf=cciw19)
+[https://easychair.org/conferences/?conf=cciw20](https://easychair.org/conferences/?conf=cciw20)
 
 <small>The submitted articles can either be short (4 pages) position papers, or long (8 pages) research papers.
 Camera-ready version of accepted papers must be compliant with the ACM Master Template with sigconf  format (please be sure to use the current version).</small>
@@ -27,7 +27,7 @@ All necessary documentation can be found at: [https://www.acm.org/publications/p
 
 #### Important dates
 
-* <small>Paper submission: April 22, 2019</small>
-* <small>Paper Acceptance Notification: April 29, 2019</small>
-* <small>Camera-ready deadline: May 6, 2019</small>
-* <small>Workshop: June 24, 2019</small>
+* <small>Paper submission: April 22, 2020</small>
+* <small>Paper Acceptance Notification: April 29, 2020</small>
+* <small>Camera-ready deadline: May 6, 2020</small>
+* <small>Workshop: June 24, 2020</small>

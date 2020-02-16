@@ -1,37 +1,40 @@
 ---
 layout: page
 feature_text: | 
-  ### 1st Workshop on Converged Computing Infrastructure
-  June 24, 2019, Phoenix, AZ
-
+  ### 2st Workshop on Converged Computing Infrastructure
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 23, 2020 Stockholm, Sweden
   :
 
   :
 feature_image: "../images/3.jpg"
 ---
 
-To contact the chairs, you can email: **cciw19@easychair.org**
+To contact the chairs, you can email: **cciw20@easychair.org**
 
 ##### Workshop Organizers
 
-* <small>Bogdan Nicolae - Argonne National Labs</small>
 * <small>Alexandru Uta - Vrije Universiteit Amsterdam</small>
 * <small>Carlos Costa - IBM Research</small>
+* <small>Jan Rellermeyer, TU Delft, The Netherlands</small>
 * <small>Ana Gainaru - Vanderbilt University</small>
 
 ##### Program committee
 
-* <small>Ana	Gainaru	-	Vanderbilt University</small>
-* <small>Alexandru	Uta	-	Vrije Universiteit Amsterdam</small>
-* <small>Youssef	Nashed	-	Argonne National Laboratory</small>
-* <small>Bogdan	Nicolae	-	Argonne National Laboratory</small>
-* <small>Alexandru	Costan	-	INRIA</small>
-* <small>Jan S	Rellermeyer	-	Delft University of Technology</small>
-* <small>Kamesh	Madduri	-	The Pennsylvania State University</small>
-* <small>Dongfang	Zhao	-	University of Nevada, Reno</small>
-* <small>Hongyang	Sun	-	Vanderbilt University</small>
-* <small>Bogdan	Ghit	-	Databricks</small>
-* <small>Carlos	Costa	-	IBM</small>
-* <small>Yoonho	Park	-	IBM</small>
-* <small>James	Dinan	-	Intel</small>
+* <small>Ana Gainaru, Vanderbilt University, USA</small>
+* <small>Alexandru Uta, Leiden University, the Netherlands</small>
+* <small>Carlos Costa, IBM Research</small>
+* <small>Claudia Misale, IBM Research</small>
+* <small>Tom Peterka, Argonne National Laboratory</small>
+* <small>Alexandru Costan, INSA Rennes, France</small>
+* <small>Hongyang Sun, Vanderbilt University</small>
+* <small>Kamesh Madduri, Pennsylvania State University</small>
+* <small>Jim Dowling, KTH and Logical Clocks</small>
+* <small>Devesh Tiwari, Northeastern University</small>
+* <small>James Dinan, Intel Corporation</small>
+* <small>Yoonho Park, IBM Research</small>
+* <small>Dongfang Zhao, University of Nevada</small>
+* <small>Bogdan Ghit, Databricks </small>
+* <small>Zhao Zhang, TACC, USA </small>
+* <small>Jan Rellermeyer, TU Delft, The Netherlands</small>
+* <small>Damien Genet, University of Tennessee at Knoxville</small>
 
