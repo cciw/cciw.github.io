@@ -1,8 +1,8 @@
 ---
 layout: page
 feature_text: | 
-  ### 1st Workshop on Converged Computing Infrastructure
-  June 24, 2019, Phoenix, AZ
+  ### 2st Workshop on Converged Computing Infrastructure
+  June 23, 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stockholm, Sweden
 
   :
 
@@ -11,7 +11,7 @@ feature_image: "images/3.jpg"
 ---
 
 <small>
-Held in conjunction with [HPDC](http://www.hpdc.org/) (The International ACM Symposium on High-Performance Parallel and Distributed Computing) 2019, Phoenix, AZ, June 22-29
+Held in conjunction with [HPDC](http://www.hpdc.org/) (The International ACM Symposium on High-Performance Parallel and Distributed Computing) 2020, Stockholm, Sweden, June 23-26
 </small>
 
 #### Workshop Overview	
@@ -45,7 +45,7 @@ conference (together with the HPDC conference proceedings).
 
 #### Important dates
 
-* <small>Paper submission: April 22, 2019 </small>
-* <small>Paper Acceptance Notification: April 29, 2019</small>
-* <small>Camera-ready deadline: May 6, 2019</small>
-* <small>Workshop: June 24, 2019</small>
+* <small>Paper submission: April 22, 2020 </small>
+* <small>Paper Acceptance Notification: April 29, 2020</small>
+* <small>Camera-ready deadline: May 6, 2020</small>
+* <small>Workshop: June 24, 2020</small>
