@@ -30,9 +30,12 @@ logo: "/images/logo.png"
 
 # Header nav
 navigation_header:
-  Home: /
-  Organization: /about/
-  Submission: /submission/
+- title: Home
+  url: /
+- title: Organization
+  url: /about/
+- title: Submission
+  url: /submission/
 
 # Footer nav
 navigation_footer:
