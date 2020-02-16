@@ -2,7 +2,7 @@
 layout: page
 feature_text: | 
   ### 2st Workshop on Converged Computing Infrastructure
-  June 23, 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stockholm, Sweden
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; June 23, 2020 Stockholm, Sweden
 
   :
 
