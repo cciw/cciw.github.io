@@ -27,16 +27,23 @@ The case for deep convergence needs pragmatic arguments. Addressing the lack of 
 #### Topics of Interest
 <br/>
 <small>
-We invite the submission of original work that is related to the topics below. The submitted articles can either be short (4 pages) position papers, or long (8 pages) research papers. We especially encourage submissions that look into the convergence of the three focus domains - HPC, BD, and AI. Topics of interest include, but are not limited to:</small>
+We invite the submission of original work that is related to the topics below. The submitted articles
+can either be short (2 pages) papers, position papers (4 pages), or full research papers (4-6 pages). We
+also accept “talk-only” submissions, of at most 2 pages, which will not be included in the proceedings, but
+the authors will be allowed a full presentation slot. We especially encourage submissions that look into
+the convergence of the three focus domains - HPC, BD, and AI.
+Topics of interest include, but are not limited to:</small>
+
 * <small> Resource-management and scheduling for converged infrastructure </small>
-* <small> Interoperability, interference mitigation, performance variability </small>
-* <small>  Novel system architectures and programming models for converged infrastructure</small>
-* <small>  Performance studies of converged infrastructure, performance portability and compatibility</small>
-* <small>  Converged storage systems, malleable and reconfigurable runtimes and middleware</small>
-* <small>  Hardware-software co-design and concertation</small>
-* <small>  Identifying common building blocks, libraries, and functionality for HPC, BD, and AI/ML/DL</small>
-* <small>  Convergence with the cloud, redefining elasticity and scalability for converged infrastructure</small>
-* <small>  New classes of applications, applications at the boundary of HPC, Big Data, AI, Machine Learning, or Deep Learning, or combinations of, that fit best on converged infrastructure</small>
+* <small> Interoperability, interference mitigation, performance variability, experiment reproducibility </small>
+* <small> Novel system architectures and programming models for converged infrastructure</small>
+* <small> Performance studies of converged infrastructure, performance portability and compatibility</small>
+* <small> Converged storage systems, malleable and reconfigurable runtimes and middleware</small>
+* <small> Hardware-software co-design and concertation</small>
+* <small> Identifying common building blocks, libraries, and functionality for HPC, BD, and AI/ML/DL</small>
+* <small> Convergence with the cloud, redefining elasticity and scalability for converged infrastructure</small>
+* <small> New classes of applications, applications at the boundary of HPC, Big Data, AI, Machine Learning, or Deep Learning, or combinations of, that fit best on converged infrastructure</small>
+* <small> Lessons learned from building and operating converged infrastructure </small>
 
 <small>
 Proceedings of this workshop will be published in CD format and will be available at the
@@ -44,7 +51,7 @@ conference (together with the HPDC conference proceedings).
 </small>
 
 #### Important dates
-
+<br/>
 * <small>Paper submission: April 3, 2020 </small>
 * <small>Paper Acceptance Notification: April 17, 2020</small>
 * <small>Camera-ready deadline: May 6, 2020</small>
