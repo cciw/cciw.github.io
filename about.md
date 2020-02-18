@@ -21,7 +21,8 @@ To contact the chairs, you can email: **cciw20@easychair.org**
 
 ##### Program committee
 TBD
-<!---
+
+<!--
 * <small>Ana Gainaru, Vanderbilt University, USA</small>
 * <small>Alexandru Uta, Leiden University, the Netherlands</small>
 * <small>Carlos Costa, IBM Research</small>
