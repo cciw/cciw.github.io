@@ -27,7 +27,7 @@ All necessary documentation can be found at: [https://www.acm.org/publications/p
 
 #### Important dates
 
-* <small>Paper submission: April 22, 2020</small>
-* <small>Paper Acceptance Notification: April 29, 2020</small>
+* <small>Paper submission: April 3, 2020</small>
+* <small>Paper Acceptance Notification: April 17, 2020</small>
 * <small>Camera-ready deadline: May 6, 2020</small>
-* <small>Workshop: June 24, 2020</small>
+* <small>Workshop: June 23, 2020</small>
