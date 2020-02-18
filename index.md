@@ -28,7 +28,7 @@ The case for deep convergence needs pragmatic arguments. Addressing the lack of 
 <br/>
 <small>
 We invite the submission of original work that is related to the topics below. The submitted articles
-can either be short (2 pages) papers, position papers (4 pages), or full research papers (4-6 pages). We
+can either be **short papers** (2 pages), **position papers** (4 pages), or **full research papers** (4-6 pages). We
 also accept “talk-only” submissions, of at most 2 pages, which will not be included in the proceedings, but
 the authors will be allowed a full presentation slot. We especially encourage submissions that look into
 the convergence of the three focus domains - HPC, BD, and AI.
@@ -51,7 +51,7 @@ conference (together with the HPDC conference proceedings).
 </small>
 
 #### Important dates
-<br/>
+
 * <small>Paper submission: April 3, 2020 </small>
 * <small>Paper Acceptance Notification: April 17, 2020</small>
 * <small>Camera-ready deadline: May 6, 2020</small>
