@@ -14,9 +14,9 @@ Please submit your paper via the submission system:</small>
 
 [https://easychair.org/conferences/?conf=cciw20](https://easychair.org/conferences/?conf=cciw20)
 
-<small>The submitted articles can either be short (2 pages) papers, position papers
-(4 pages), or full research papers (4-6 pages). We
-also accept “talk-only” submissions, of at most 2 pages, which will not be included in the proceedings, but
+<small>The submitted articles can either be **short papers** (2 pages), **position papers**
+(4 pages), or **full research papers** (4-6 pages). We
+also accept **“talk-only” submissions**, of at most 2 pages, which will not be included in the proceedings, but
 the authors will be allowed a full presentation slot. 
 Camera-ready version of accepted papers must be compliant with the ACM Master Template with sigconf  format (please be sure to use the current version).</small>
 

@@ -29,7 +29,7 @@ The case for deep convergence needs pragmatic arguments. Addressing the lack of 
 <small>
 We invite the submission of original work that is related to the topics below. The submitted articles
 can either be **short papers** (2 pages), **position papers** (4 pages), or **full research papers** (4-6 pages). We
-also accept “talk-only” submissions, of at most 2 pages, which will not be included in the proceedings, but
+also accept **“talk-only” submissions**, of at most 2 pages, which will not be included in the proceedings, but
 the authors will be allowed a full presentation slot. We especially encourage submissions that look into
 the convergence of the three focus domains - HPC, BD, and AI.
 Topics of interest include, but are not limited to:</small>
