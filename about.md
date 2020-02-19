@@ -14,7 +14,7 @@ To contact the chairs, you can email: **cciw20@easychair.org**
 
 ##### Workshop Organizers
 
-* <small>Alexandru Uta - Vrije Universiteit Amsterdam</small>
+* <small>Alexandru Uta - Leiden University</small>
 * <small>Carlos Costa - IBM Research</small>
 * <small>Jan Rellermeyer - Delft University of Technology</small>
 * <small>Ana Gainaru - Vanderbilt University</small>
