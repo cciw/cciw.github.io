@@ -52,8 +52,8 @@ conference (together with the HPDC conference proceedings).
 
 #### Important dates
 
-* <small>Abstract Submission: <a>April 3, 2020</a> </small>
-* <small>Paper Submission: <a>April 10, 2020</a> </small>
+* <small>Abstract Submission: <a>~~April 3, 2020~~</a> <a>April 10, 2020</a> </small>
+* <small>Paper Submission: <a>~~April 10, 2020~~</a> <a>April 17, 2020</a> </small>
 * <small>Paper Acceptance Notification: April 20, 2020</small>
 * <small>Camera-ready: May 6, 2020</small>
 * <small>Workshop: June 23, 2020</small>
