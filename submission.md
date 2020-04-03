@@ -31,8 +31,8 @@ All necessary documentation can be found at:<br/>
 
 #### Important dates
 
-* <small>Abstract Submission: <a>April 3, 2020</a> </small>
-* <small>Paper Submission: <a>April 10, 2020</a> </small>
+* <small>Abstract Submission: ~~April 3, 2020~~ <a>April 10, 2020</a> </small>
+* <small>Paper Submission: ~~April 10, 2020~~ <a>April 17, 2020</a> </small>
 * <small>Paper Acceptance Notification: April 20, 2020</small>
 * <small>Camera-ready deadline: May 6, 2020</small>
 * <small>Workshop: June 23, 2020</small>
