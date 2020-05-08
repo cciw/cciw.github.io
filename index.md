@@ -10,6 +10,8 @@ feature_text: |
 feature_image: "images/3.jpg"
 ---
 
+<a> <b> The CCIW workshop has been, unfortunately canceled due to COVID-19 </b> </a>
+
 <small>
 Held in conjunction with [HPDC](http://www.hpdc.org/) (The International ACM Symposium on High-Performance Parallel and Distributed Computing) 2020, Stockholm, Sweden, June 23-26
 </small>
